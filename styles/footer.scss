@@ -1,0 +1,42 @@
+$mainColor: #e04504;
+$plusColor: rgb(184, 184, 184);
+  .comp{
+    display: none;
+  }
+  .footdiv {
+    border-top: 1px solid $plusColor;
+    margin-top: 13.97px;
+    padding-left: 49.28px;
+    padding-top: 14px;
+    font-size: 16px;
+    line-height: 18px;
+  }
+  .foot1 {
+    background-image: url(../images/icons/icons8-map-marker-100\.svg);
+    background-repeat: no-repeat;
+    background-position-y: 15px;
+  }
+  .foot2 {
+    background-image: url(../images/icons/icons8-clock-100\.svg);
+    background-repeat: no-repeat;
+    background-position-y: 15px;
+  }
+  .foot3 {
+    background-image: url(../images/icons/icons8-phonelink-ring-100\.svg);
+    background-repeat: no-repeat;
+    background-position-y: 15px;
+  }
+  .arrow {
+    position: fixed;
+    width: 40px;
+    height: 34px;
+    background-image: url(../images/icons/Arrow.svg);
+    background-repeat: no-repeat;
+    background-color: #e7a78c;
+    background-position-y: 7px;
+    background-position-x: 9px;
+    border-radius: 50%;
+    left:470px;
+    bottom:1px
+  }
+
